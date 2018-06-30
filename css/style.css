@@ -1,0 +1,77 @@
+body{
+  background-color: #FFE4E1;
+  height:100vh;
+}
+.clearfix {
+  overflow: auto;
+}
+h2{
+  color: #4682B4;
+  /* display: inline-block; */
+  margin-left: 5%;
+  margin-right: 3%;
+}
+.everything{
+  margin-left: 25%;
+  margin-right: 25%;
+  border: dashed 2px black;
+}
+.formContainer{
+  text-align: center;
+  border: none;
+}
+.middleContainer{
+  height: 30vh;
+}
+footer{
+  height:30vh;
+  width:100%;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+}
+.rih{
+  width: 8%;
+  float: left;
+  margin-right:10px;
+  margin-left: 40px;
+}
+.rih img{
+  width:100%;
+}
+.nicki{
+  width: 8%;
+  float: left;
+  margin-right:10px;
+  margin-left:7px; 
+}
+.nicki img{
+  width:100%;
+}
+.smoke{
+  width: 8%;
+  float: left;
+  margin-right:10px;
+  margin-left:7px; 
+}
+.smoke img{
+  width:100%;
+}
+.zig{
+  width: 8%;
+  float: left;
+  margin-right:10px;
+  margin-left:7px; 
+}
+.zig img{
+  width:100%;
+}
+.drake{
+  width: 8%;
+  float: left;
+  margin-right:10px;
+  margin-left:7px; 
+}
+.drake img{
+  width:100%;
+}
